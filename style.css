@@ -1,0 +1,13 @@
+.icon-size {
+    font-size: 2em;
+}
+
+#signup-section {
+    background-image: url(images/signup-background.png);
+    background-size: 100%;
+}
+
+#signup-card {
+    border-radius: 15px;
+    opacity: 0.85;
+}
